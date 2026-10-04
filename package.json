@@ -1,0 +1,1 @@
+{"dependencies":{"muse-client":"latest","weixin-agent-sdk":"latest"},"devDependencies":{"@types/node":"^26.6.4","tsx":"^4.0.0","typescript":"^5.0.0"},"name":"muse-wechat-bridge","private":true,"scripts":{"pair":"tsx pair.ts","start":"tsx bridge.ts"},"type":"module","version":"0.1.0"}
